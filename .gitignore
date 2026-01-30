@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Environments
+.venv
+.env
+
+#Audio files
+audio/*.mp3
+audio/*.wav
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+#ONNX models
+models/*.onnx
+
+# Ignore Python bytecode
+__pycache__/

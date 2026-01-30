@@ -1,9 +1,7 @@
 # 🎧 ONNX Audio Denoiser (Demucs-based)
 
 A **Python-based audio denoising pipeline** built on top of an ONNX-exported
-Demucs-style model. This project was migrated from a C# backend implementation
-to Python to enable **model inspection, experimentation, and future ML
-improvements**.
+Demucs-style model. 
 
 ---
 

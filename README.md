@@ -21,7 +21,7 @@ improvements**.
 ## 📁 Project Structure
 
 ```text
-onnx_inspector/
+ml_audio_denoiser/
 ├── models/
 │   └── demucs_16k_dynamic.onnx
 ├── scripts/
